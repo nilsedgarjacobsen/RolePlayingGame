@@ -3,6 +3,7 @@ public abstract class GameCharacter {
     private int healthPoints;
     private int attackValue = 10;
 
+
     public GameCharacter(int healthPoints){
         this.healthPoints = healthPoints;
     }
